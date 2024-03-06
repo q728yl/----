@@ -1,0 +1,53 @@
+.activity-card {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.1);
+}
+
+
+.activity-card h2 {
+    margin-top: 0;
+}
+
+.activity-card ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.activity-card ul li {
+    margin-bottom: 10px;
+}
+
+.card-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+
+}
+
+.ant-card {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #fff;
+    box-shadow: 0px 0px 8px rgba(0.2, 0.2, 0.2, 0.3);
+
+}
+
+.ant-card-head-title {
+    font-size: 24px;
+    font-weight: bold;
+
+}
+
+
+.ant-card-body {
+    padding: 20px;
+}
+
+.ant-card-hoverable:hover {
+    box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.2);
+}

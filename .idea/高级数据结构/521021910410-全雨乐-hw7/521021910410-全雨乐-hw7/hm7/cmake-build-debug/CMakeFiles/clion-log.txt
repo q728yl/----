@@ -1,0 +1,1 @@
+"D:\clion\CLion 2022.2.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/clion/CLion 2022.2.1/bin/ninja/win/ninja.exe" -G Ninja -S C:\Users\lenovo\Desktop\521021910410-全雨乐-hw7\hm7 -B C:\Users\lenovo\Desktop\521021910410-全雨乐-hw7\hm7\cmake-build-debug
